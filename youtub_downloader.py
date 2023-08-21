@@ -4,7 +4,7 @@
 url = 'https://www.youtube.com/watch?v=onHPipeASdk&list=PLpp8-k7G_6Y3Wj1suZQ-9lATFzFuGw93x'
 pl = Playlist(url)
 print(pl.title)'''
-# this block of code is used to download a single youtube video 
+# this block of code is used to download a 
 '''from pytube import YouTube
 link='https://www.youtube.com/shorts/xCzEoQlspqk'
 youtube_1 = YouTube(link)
